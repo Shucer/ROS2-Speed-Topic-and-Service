@@ -26,6 +26,8 @@ setup(
         'console_scripts': [
             'publisher = wheel_speed_check.wheel_speed_publisher:main',
             'subscriber = wheel_speed_check.wheel_speed_subscriber:main',
+            'server = wheel_speed_check.wheel_speed_server:main',
+            'client = wheel_speed_check.wheel_speed_client:main',
         ],
     },
 )

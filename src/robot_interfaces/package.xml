@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <maintainer email="mounir.gharbi026@gmail.com">shucer</maintainer>
   <description>Nodes with Custom ROS2 messages and services that monitor wheels speed.</description>
-
+  <license>MIT</license>
   <buildtool_depend>ament_cmake</buildtool_depend>
   <build_depend>rosidl_default_generators</build_depend>
   <exec_depend>rosidl_default_runtime</exec_depend>
